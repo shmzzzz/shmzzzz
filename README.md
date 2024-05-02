@@ -6,6 +6,6 @@
 
 ## 💨 Status
 <p align="left">
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats-alpha-one-46.vercel.app/api/top-langs/?username=shmzzzz&layout=compact&count_private=true" />
-  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats-alpha-one-46.vercel.app/api?username=shmzzzz&count_private=true&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-alpha-one-46.vercel.app/api/top-langs/?username=shmzzzz&layout=compact&count_private=true" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-alpha-one-46.vercel.app/api?username=shmzzzz&count_private=true&show_icons=true" />
 </p>
