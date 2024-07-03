@@ -1,5 +1,5 @@
-## 🔥 About me
-- I'm an Android Developer📱
+## 🔥 About Me
+I'm an Android Developer📱
 
 ## 🌱 My Skills
 [![My Skills](https://skillicons.dev/icons?theme=light&perline=4&i=java,kotlin,androidstudio,flutter,dart,github,notion)](https://skillicons.dev)
