@@ -2,7 +2,7 @@
 I'm an Android Developer📱
 
 ## 🌱 My Skills
-[![My Skills](https://skillicons.dev/icons?theme=light&perline=4&i=java,kotlin,androidstudio,flutter,dart,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=5&i=java,kotlin,androidstudio,flutter,dart,git,github,apple,figma,notion)](https://skillicons.dev)
 
 ## 💨 Status
 <p align="left">
