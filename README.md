@@ -1,5 +1,5 @@
 ## 🔥 About Me
-I'm an Android Developer📱
+I'm a Flutter and Android Developer!📱
 
 ## 🌱 My Skills
 [![My Skills](https://skillicons.dev/icons?perline=5&i=java,kotlin,androidstudio,flutter,dart,git,github,apple,figma,notion)](https://skillicons.dev)
