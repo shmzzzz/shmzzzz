@@ -2,22 +2,12 @@
 I'm a Flutter and Android App Developer!📱
 
 ## 🌱 My Skills
-### Programming Languages:
 [![Programming Languages](https://skillicons.dev/icons?i=dart,java,kotlin)](https://skillicons.dev)
-
-### Frameworks:
 [![Frameworks](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-
-### IDEs:
-[![IDEs](https://skillicons.dev/icons?i=androidstudio,vscode)](https://skillicons.dev)
-
-### Version Control:
+[![IDEs](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev) <br/>
+[![IDEs](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-### Design Tools:
 [![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
-### Documentation:
 [![Documentation](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
 ## 💨 Status
