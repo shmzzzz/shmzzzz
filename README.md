@@ -1,5 +1,9 @@
 ## 🔥 About Me
-I'm a Flutter and Android App Developer!📱
+なんちゃってスクラムマスターです。
+
+## 📚 Certifications
+### Professional Scrum Master Ⅰ
+<img width="150px" src="https://github.com/user-attachments/assets/7e6eb142-7e67-421b-b771-fb902ef4177d">
 
 ## 🌱 My Skills
 [![Programming Languages](https://skillicons.dev/icons?i=dart,java,kotlin)](https://skillicons.dev)
