@@ -1,11 +1,13 @@
-## 🔥 About Me
-スクラムマスター / PdM に興味があるモバイルエンジニアです。<br/>
-Flutterを中心に開発経験があり、チームのアジリティ向上や心理的安全性のある組織づくりに関心があります。<br/>
-将来的には「価値探索」と「チーム改善」をリードできる人材を目指しています。
+## 👋 About Me
+
+チームリーダー／スクラムマスターとして、開発チームの運営やプロセス改善に取り組んでいます。  
+エンジニアとしての実務経験を背景に、個人の頑張りに依存せず、  
+チームが迷わず判断し、前に進める「仕組みづくり」を重視しています。
 
 ---
 
 ## 📚 Certifications
+
 - **Professional Scrum Master Ⅰ (2025.03)**
 - **Professional Scrum Master Ⅱ (2025.05)**
 
@@ -16,22 +18,18 @@ Flutterを中心に開発経験があり、チームのアジリティ向上や�
 
 ---
 
-## 🌱 My Skills
+## 🧭 What I Value
 
-### Languages & Frameworks
-[![Languages](https://skillicons.dev/icons?i=dart,java,kotlin)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-
-### Tools
-[![IDEs](https://skillicons.dev/icons?i=androidstudio,vscode)](https://skillicons.dev)
-[![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-[![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![Documentation](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+- 情報が整理・可視化され、判断しやすい状態をつくること
+- 観察と問いかけを通じて、対話から合意形成を促すこと
+- 属人化を防ぎ、再現性のある改善を回せるプロセス設計
+- 「気づいた人」が損をしないチームや組織の在り方
 
 ---
 
-## 💨 Status
-<p align="left">
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shmzzzz&show_icons=true&count_private=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmzzzz&layout=compact&count_private=true" />
-</p>
+## 🛠 What I Do
+
+- スクラムイベントの設計・運営
+- 見積もりや進捗可視化の仕組みづくり
+- 情報整理・定期共有による認識齟齬の解消
+- ステークホルダー調整・論点整理を通じたプロジェクト推進支援
