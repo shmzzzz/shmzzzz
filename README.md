@@ -8,12 +8,20 @@
 
 ## 📚 Certifications
 
-- **Professional Scrum Master Ⅰ (2025.03)**
-- **Professional Scrum Master Ⅱ (2025.05)**
+- **Professional Scrum Master I (PSM I)** — 2025-03 ([Verify](https://www.credly.com/badges/ec7f9be0-29ac-4d35-9eca-ce887ba7cfe2))
+- **Professional Scrum Master II (PSM II)** — 2025-05 ([Verify](https://www.credly.com/badges/2e3f728c-bafb-4e36-beba-69e6d298e413))
+- **Project Management Professional (PMP)** — 2026-02 ([Verify](https://www.credly.com/badges/68c4b1bc-f6b3-4ea6-88a3-4eabca6470bc))
 
 <p align="left">
-  <img width="120px" src="https://github.com/user-attachments/assets/7e6eb142-7e67-421b-b771-fb902ef4177d">&emsp;
-  <img width="120px" src="https://github.com/user-attachments/assets/c5a0599e-cf0c-47f1-a7c2-32450fa4c08b">
+  <a href="https://www.credly.com/badges/ec7f9be0-29ac-4d35-9eca-ce887ba7cfe2" aria-label="PSM I (Credly)">
+    <img width="120px" alt="PSM I badge" src="https://github.com/user-attachments/assets/7e6eb142-7e67-421b-b771-fb902ef4177d" />
+  </a>&emsp;
+  <a href="https://www.credly.com/badges/2e3f728c-bafb-4e36-beba-69e6d298e413" aria-label="PSM II (Credly)">
+    <img width="120px" alt="PSM II badge" src="https://github.com/user-attachments/assets/c5a0599e-cf0c-47f1-a7c2-32450fa4c08b" />
+  </a>&emsp;
+  <a href="https://www.credly.com/badges/68c4b1bc-f6b3-4ea6-88a3-4eabca6470bc" aria-label="PMP (Credly)">
+    <img width="120px" alt="PMP badge" src="https://github.com/user-attachments/assets/210a5d85-3450-431c-91a9-a315e6b21e93" />
+  </a>
 </p>
 
 ---
